@@ -1,0 +1,16 @@
+﻿body
+{
+background-color:aqua;
+}
+nav {
+background-color:green;
+
+}
+nav li {
+list-style:none;
+display:inline-block;
+margin-right:10px;
+}
+    nav ul {
+        text-align: center;
+    }
