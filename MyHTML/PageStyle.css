@@ -4,13 +4,16 @@ background-color:aqua;
 }
 nav {
 background-color:green;
-
+height:30px;
+margin-top:0;
 }
 nav li {
 list-style:none;
+position:relative;top:-5px;
 display:inline-block;
-margin-right:10px;
+margin-right:10px;align
 }
     nav ul {
         text-align: center;
+        
     }
