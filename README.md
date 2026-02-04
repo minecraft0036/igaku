@@ -1,5 +1,5 @@
 # igaku
-
+注意！！　この説明(READme.md)はGithubCopilotによって生成されました
 簡単な概要（1〜2文で）
 - このリポジトリは HTML/CSS を主体とした静的サイト（Index.html）が含まれています。
 - C# のソースは `CSharpSource/` フォルダに格納されています（ビルド手順は以下）。
