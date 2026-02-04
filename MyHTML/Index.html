@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>カレーライスは飲み物である - 科学的根拠に基づく主張</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        header {
+            text-align: center;
+            color: white;
+            padding: 40px 20px;
+            margin-bottom: 40px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 20px;
+            backdrop-filter: blur(10px);
+        }
+
+        h1 {
+            font-size: 3em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+        }
+
+        .subtitle {
+            font-size: 1.3em;
+            opacity: 0.9;
+        }
+
+        .emoji {
+            font-size: 4em;
+            margin: 20px 0;
+        }
+
+        .cards-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            margin-bottom: 40px;
+        }
+
+        .card {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            cursor: pointer;
+        }
+
+            .card:hover {
+                transform: translateY(-10px) scale(1.02);
+                box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+            }
+
+        .card-header {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+            padding-bottom: 15px;
+            border-bottom: 3px solid;
+        }
+
+        .card-icon {
+            font-size: 2.5em;
+            margin-right: 15px;
+        }
+
+        .card-title {
+            font-size: 1.5em;
+            font-weight: bold;
+        }
+
+        .card-content {
+            line-height: 1.8;
+        }
+
+            .card-content li {
+                margin-bottom: 12px;
+                padding-left: 25px;
+                position: relative;
+            }
+
+                .card-content li::before {
+                    content: "✓";
+                    position: absolute;
+                    left: 0;
+                    font-weight: bold;
+                    font-size: 1.2em;
+                }
+
+        /* カラーテーマ */
+        .card.science {
+            border-left: 5px solid #3498db;
+        }
+
+            .card.science .card-header {
+                border-bottom-color: #3498db;
+            }
+
+            .card.science .card-content li::before {
+                color: #3498db;
+            }
+
+        .card.physical {
+            border-left: 5px solid #e74c3c;
+        }
+
+            .card.physical .card-header {
+                border-bottom-color: #e74c3c;
+            }
+
+            .card.physical .card-content li::before {
+                color: #e74c3c;
+            }
+
+        .card.cultural {
+            border-left: 5px solid #f39c12;
+        }
+
+            .card.cultural .card-header {
+                border-bottom-color: #f39c12;
+            }
+
+            .card.cultural .card-content li::before {
+                color: #f39c12;
+            }
+
+        .card.practical {
+            border-left: 5px solid #2ecc71;
+        }
+
+            .card.practical .card-header {
+                border-bottom-color: #2ecc71;
+            }
+
+            .card.practical .card-content li::before {
+                color: #2ecc71;
+            }
+
+        .card.expert {
+            border-left: 5px solid #9b59b6;
+        }
+
+            .card.expert .card-header {
+                border-bottom-color: #9b59b6;
+            }
+
+            .card.expert .card-content li::before {
+                color: #9b59b6;
+            }
+
+        .card.emotional {
+            border-left: 5px solid #e91e63;
+        }
+
+            .card.emotional .card-header {
+                border-bottom-color: #e91e63;
+            }
+
+            .card.emotional .card-content li::before {
+                color: #e91e63;
+            }
+
+        .image-placeholder {
+            width: 100%;
+            height: 150px;
+            background: linear-gradient(135deg, #ffeaa7 0%, #fdcb6e 100%);
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 4em;
+            margin: 20px 0;
+            transition: transform 0.3s ease;
+        }
+
+        .card:hover .image-placeholder {
+            transform: scale(1.05) rotate(2deg);
+        }
+
+        footer {
+            text-align: center;
+            color: white;
+            padding: 30px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 20px;
+            backdrop-filter: blur(10px);
+        }
+
+            footer p {
+                font-size: 0.9em;
+                opacity: 0.8;
+                margin-top: 10px;
+            }
+
+        ul {
+            list-style: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="emoji">🍛</div>
+            <h1>カレーライスは飲み物である</h1>
+            <p class="subtitle">科学的・文化的・実践的根拠に基づく完全証明</p>
+        </header>
+
+        <div class="cards-container">
+            <div class="card science">
+                <div class="card-header">
+                    <div class="card-icon">🔬</div>
+                    <div class="card-title">科学的根拠</div>
+                </div>
+                <div class="card-content">
+                    <ul>
+                        <li>液体成分が固形成分を上回る割合で構成されている</li>
+                        <li>咀嚼回数が通常の食事の約1/3で嚥下可能</li>
+                        <li>温度管理により粘度調整が容易</li>
+                        <li>水分含有率78%以上（WHOの飲料基準クリア※）</li>
+                        <li>スプーンは「すくう」ではなく「運ぶ」道具である</li>
+                    </ul>
+                </div>
+                <div class="image-placeholder">💧</div>
+            </div>
+
+            <div class="card physical">
+                <div class="card-header">
+                    <div class="card-icon">⚗️</div>
+                    <div class="card-title">物理的特性</div>
+                </div>
+                <div class="card-content">
+                    <ul>
+                        <li>流動性：傾けると容器内を移動する</li>
+                        <li>混和性：ライスと完全に融合する</li>
+                        <li>吸収性：米粒がカレーを吸収して一体化</li>
+                        <li>温度依存性：冷めても液体状態を維持</li>
+                        <li>噛まずに飲み込める最適な粘度を実現</li>
+                    </ul>
+                </div>
+                <div class="image-placeholder">🌊</div>
+            </div>
+
+            <div class="card cultural">
+                <div class="card-header">
+                    <div class="card-icon">🌏</div>
+                    <div class="card-title">文化的証明</div>
+                </div>
+                <div class="card-content">
+                    <ul>
+                        <li>「カレーは飲み物」という格言の存在</li>
+                        <li>早食い選手権では飲料カテゴリーに分類</li>
+                        <li>インドでは手で「流し込む」食べ方が主流</li>
+                        <li>ビジネスマンの昼食時短術として確立</li>
+                        <li>「3分で完食可能」は明らかに飲料の特徴</li>
+                    </ul>
+                </div>
+                <div class="image-placeholder">🗾</div>
+            </div>
+
+            <div class="card practical">
+                <div class="card-header">
+                    <div class="card-icon">⏱️</div>
+                    <div class="card-title">実用的メリット</div>
+                </div>
+                <div class="card-content">
+                    <ul>
+                        <li>摂取時間：平均2分47秒（飲料レベル）</li>
+                        <li>片手操作可能（スマホ見ながらOK）</li>
+                        <li>会議中でも気づかれずに摂取可能</li>
+                        <li>運転中でも安全に飲める（※推奨しません）</li>
+                        <li>冷めても美味しい＝温度管理不要</li>
+                    </ul>
+                </div>
+                <div class="image-placeholder">📱</div>
+            </div>
+
+            <div class="card expert">
+                <div class="card-header">
+                    <div class="card-icon">👨‍🔬</div>
+                    <div class="card-title">専門家の見解</div>
+                </div>
+                <div class="card-content">
+                    <ul>
+                        <li>栄養学者「液体栄養食の一種と言える」</li>
+                        <li>物理学者「ニュートン流体の特性を示す」</li>
+                        <li>文化人類学者「スープの進化形である」</li>
+                        <li>医学博士「消化吸収速度は飲料に近い」</li>
+                        <li>哲学者「飲む・食べるの境界は曖昧である」</li>
+                    </ul>
+                </div>
+                <div class="image-placeholder">🎓</div>
+            </div>
+
+            <div class="card emotional">
+                <div class="card-header">
+                    <div class="card-icon">❤️</div>
+                    <div class="card-title">心理的側面</div>
+                </div>
+                <div class="card-content">
+                    <ul>
+                        <li>「飲む」と思えば罪悪感が減る</li>
+                        <li>ダイエット中でも「飲み物だから」でOK</li>
+                        <li>2杯目3杯目も「お代わり」ではなく「リフィル」</li>
+                        <li>深夜でも「夜食」ではなく「ナイトキャップ」</li>
+                        <li>幸福度が27%向上（当社調べ）</li>
+                    </ul>
+                </div>
+                <div class="image-placeholder">😊</div>
+            </div>
+        </div>
+
+        <footer>
+            <h2>結論：カレーライスは飲み物である（Q.E.D.）</h2>
+            <p>※本サイトはジョークサイトです。実際の栄養摂取は適切に行ってください。</p>
+            <p>※WHOの飲料基準は架空のものです。</p>
+            <p>🍛 カレーを愛するすべての人々へ 🍛</p>
+        </footer>
+    </div>
+</body>
+</html>
