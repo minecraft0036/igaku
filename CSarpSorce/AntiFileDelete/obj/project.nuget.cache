@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jzGYu1PxDXg=",
+  "dgSpecHash": "+j2GL/kanps=",
   "success": true,
-  "projectFilePath": "C:\\Users\\myuser\\source\\repos\\minecraft0036\\igaku\\CSarpSorce\\AntiFileDelete\\AntiFileDelete.csproj",
+  "projectFilePath": "C:\\Users\\myuser\\Documents\\GitHub\\igaku\\CSarpSorce\\AntiFileDelete\\AntiFileDelete.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\myuser\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\10.0.2\\microsoft.dotnet.ilcompiler.10.0.2.nupkg.sha512",
     "C:\\Users\\myuser\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.2\\microsoft.net.illink.tasks.10.0.2.nupkg.sha512",
