@@ -1,18 +1,14 @@
-# Csharp Spftwares
- ## ページに載せる用のC#ソフトを何個か
-- リスト
-  - ファイルの削除防止
+# CsarpSofts
+## 作る予定のソフト
+- list
+
   - Aesファイル暗号化ソフト
   - 不要ファイル削除ソフト
   - 有名なソフト一式インストール
   - キー入力自動化ソフト
   - シャットダウンスケジュールソフト
   - 有害なレジストリ削除ソフト
- 
-###全ては.Framework:NET10
-  -SelfContaind
-  -NativeAot
-  -ConsoleまたはUIなし
-
-  
-###気が向いたらトリセツのmdを作る
+#### 構成は
+### SelfContaind,NativeAot
+### .NET10 Windows
+**気が向いたら取説作る**
