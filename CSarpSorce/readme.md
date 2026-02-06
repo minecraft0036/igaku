@@ -13,4 +13,6 @@
   -SelfContaind
   -NativeAot
   -ConsoleまたはUIなし
+
+  
 ###気が向いたらトリセツのmdを作る
