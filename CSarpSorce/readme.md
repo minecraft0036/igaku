@@ -8,6 +8,7 @@
   - キー入力自動化ソフト
   - シャットダウンスケジュールソフト
   - 有害なレジストリ削除ソフト
+ 
 ###全ては.Framework:NET10
   -SelfContaind
   -NativeAot
