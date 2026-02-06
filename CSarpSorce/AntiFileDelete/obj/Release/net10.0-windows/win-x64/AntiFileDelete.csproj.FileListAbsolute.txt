@@ -1,0 +1,14 @@
+C:\Users\myuser\source\repos\minecraft0036\igaku\CSarpSorce\AntiFileDelete\bin\Release\net10.0-windows\win-x64\AntiFileDelete.deps.json
+C:\Users\myuser\source\repos\minecraft0036\igaku\CSarpSorce\AntiFileDelete\bin\Release\net10.0-windows\win-x64\AntiFileDelete.runtimeconfig.json
+C:\Users\myuser\source\repos\minecraft0036\igaku\CSarpSorce\AntiFileDelete\bin\Release\net10.0-windows\win-x64\AntiFileDelete.dll
+C:\Users\myuser\source\repos\minecraft0036\igaku\CSarpSorce\AntiFileDelete\bin\Release\net10.0-windows\win-x64\AntiFileDelete.pdb
+C:\Users\myuser\source\repos\minecraft0036\igaku\CSarpSorce\AntiFileDelete\obj\Release\net10.0-windows\win-x64\AntiFileDelete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\myuser\source\repos\minecraft0036\igaku\CSarpSorce\AntiFileDelete\obj\Release\net10.0-windows\win-x64\AntiFileDelete.AssemblyInfoInputs.cache
+C:\Users\myuser\source\repos\minecraft0036\igaku\CSarpSorce\AntiFileDelete\obj\Release\net10.0-windows\win-x64\AntiFileDelete.AssemblyInfo.cs
+C:\Users\myuser\source\repos\minecraft0036\igaku\CSarpSorce\AntiFileDelete\obj\Release\net10.0-windows\win-x64\AntiFileDelete.csproj.CoreCompileInputs.cache
+C:\Users\myuser\source\repos\minecraft0036\igaku\CSarpSorce\AntiFileDelete\obj\Release\net10.0-windows\win-x64\AntiFileDelete.sourcelink.json
+C:\Users\myuser\source\repos\minecraft0036\igaku\CSarpSorce\AntiFileDelete\obj\Release\net10.0-windows\win-x64\AntiFileDelete.dll
+C:\Users\myuser\source\repos\minecraft0036\igaku\CSarpSorce\AntiFileDelete\obj\Release\net10.0-windows\win-x64\refint\AntiFileDelete.dll
+C:\Users\myuser\source\repos\minecraft0036\igaku\CSarpSorce\AntiFileDelete\obj\Release\net10.0-windows\win-x64\AntiFileDelete.pdb
+C:\Users\myuser\source\repos\minecraft0036\igaku\CSarpSorce\AntiFileDelete\obj\Release\net10.0-windows\win-x64\AntiFileDelete.genruntimeconfig.cache
+C:\Users\myuser\source\repos\minecraft0036\igaku\CSarpSorce\AntiFileDelete\obj\Release\net10.0-windows\win-x64\ref\AntiFileDelete.dll
