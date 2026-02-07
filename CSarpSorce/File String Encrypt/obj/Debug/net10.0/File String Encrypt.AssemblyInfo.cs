@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("File String Encrypt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6104c82848aa79d41562fb38d7243ea8dee97ed5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3cb5effaf2e3d7fd0b0e95631bf7e7f659491902")]
 [assembly: System.Reflection.AssemblyProductAttribute("File String Encrypt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("File String Encrypt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

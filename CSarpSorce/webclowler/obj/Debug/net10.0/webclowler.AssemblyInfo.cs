@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("aesw")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("webclowler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3cb5effaf2e3d7fd0b0e95631bf7e7f659491902")]
-[assembly: System.Reflection.AssemblyProductAttribute("aesw")]
-[assembly: System.Reflection.AssemblyTitleAttribute("aesw")]
+[assembly: System.Reflection.AssemblyProductAttribute("webclowler")]
+[assembly: System.Reflection.AssemblyTitleAttribute("webclowler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment クラスによって生成されました。
