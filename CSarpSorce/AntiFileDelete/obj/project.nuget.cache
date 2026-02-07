@@ -1,13 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+j2GL/kanps=",
+  "dgSpecHash": "Nwo1ycM9JTQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\myuser\\Documents\\GitHub\\igaku\\CSarpSorce\\AntiFileDelete\\AntiFileDelete.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\myuser\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\10.0.2\\microsoft.dotnet.ilcompiler.10.0.2.nupkg.sha512",
-    "C:\\Users\\myuser\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.2\\microsoft.net.illink.tasks.10.0.2.nupkg.sha512",
-    "C:\\Users\\myuser\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\10.0.2\\microsoft.netcore.app.crossgen2.win-x64.10.0.2.nupkg.sha512",
-    "C:\\Users\\myuser\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\10.0.2\\runtime.win-x64.microsoft.dotnet.ilcompiler.10.0.2.nupkg.sha512"
+    "C:\\Users\\myuser\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\10.0.2\\microsoft.netcore.app.crossgen2.win-x64.10.0.2.nupkg.sha512"
   ],
   "logs": []
 }

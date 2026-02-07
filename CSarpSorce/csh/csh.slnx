@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../aesw/aesw.csproj" />
+  <Project Path="../AntiFileDelete/AntiFileDelete.csproj" />
+  <Project Path="../File String Encrypt/File String Encrypt.csproj" />
+  <Project Path="csh.csproj" />
+</Solution>
