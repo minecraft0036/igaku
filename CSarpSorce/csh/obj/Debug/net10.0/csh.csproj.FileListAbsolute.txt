@@ -1,0 +1,15 @@
+C:\Users\myuser\Documents\GitHub\igaku\CSarpSorce\csh\bin\Debug\net10.0\csh.exe
+C:\Users\myuser\Documents\GitHub\igaku\CSarpSorce\csh\bin\Debug\net10.0\csh.deps.json
+C:\Users\myuser\Documents\GitHub\igaku\CSarpSorce\csh\bin\Debug\net10.0\csh.runtimeconfig.json
+C:\Users\myuser\Documents\GitHub\igaku\CSarpSorce\csh\bin\Debug\net10.0\csh.dll
+C:\Users\myuser\Documents\GitHub\igaku\CSarpSorce\csh\bin\Debug\net10.0\csh.pdb
+C:\Users\myuser\Documents\GitHub\igaku\CSarpSorce\csh\obj\Debug\net10.0\csh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\myuser\Documents\GitHub\igaku\CSarpSorce\csh\obj\Debug\net10.0\csh.AssemblyInfoInputs.cache
+C:\Users\myuser\Documents\GitHub\igaku\CSarpSorce\csh\obj\Debug\net10.0\csh.AssemblyInfo.cs
+C:\Users\myuser\Documents\GitHub\igaku\CSarpSorce\csh\obj\Debug\net10.0\csh.csproj.CoreCompileInputs.cache
+C:\Users\myuser\Documents\GitHub\igaku\CSarpSorce\csh\obj\Debug\net10.0\csh.sourcelink.json
+C:\Users\myuser\Documents\GitHub\igaku\CSarpSorce\csh\obj\Debug\net10.0\csh.dll
+C:\Users\myuser\Documents\GitHub\igaku\CSarpSorce\csh\obj\Debug\net10.0\refint\csh.dll
+C:\Users\myuser\Documents\GitHub\igaku\CSarpSorce\csh\obj\Debug\net10.0\csh.pdb
+C:\Users\myuser\Documents\GitHub\igaku\CSarpSorce\csh\obj\Debug\net10.0\csh.genruntimeconfig.cache
+C:\Users\myuser\Documents\GitHub\igaku\CSarpSorce\csh\obj\Debug\net10.0\ref\csh.dll
